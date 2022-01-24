@@ -4,7 +4,7 @@ const { formatletiable, applyText } = require("../../utils/functions");
 module.exports = class Hacker1 {
 
     constructor() {
-        this.bg = "https://pandal.page/imgs/imgs/60b5a6aa512c1.jpg";
+        this.bg = "https://telegra.ph/file/8ee8e9d2f360786862ba0.png";
         this.heker = "https://i.ibb.co/yhny1hk/1622517139282.png";
         this.text = "KNIGHTS TEAM";    
         }
